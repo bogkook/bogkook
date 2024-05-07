@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bogkook!
 - 👀 I’m interested in KPOP.
-- 🌱 I’m currently learning HTML/CSS, JavaScript and PHP.
+- 🌱 I’m currently learning HTML/CSS, JavaScript, PHP and Java.
 
 
 <!---
